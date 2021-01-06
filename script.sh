@@ -2,3 +2,4 @@
 
 echo "hello dunia"
 ls /etc > list_etc_dir.txt
+sudo apt update
