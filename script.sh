@@ -1,4 +1,4 @@
 #! /bin/bash
 
 echo "hello dunia"
-ls /etc > list_etc_dir.txt
+mkdir hallo_github
